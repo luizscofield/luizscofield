@@ -1,4 +1,4 @@
 - 👋 I’m @luizscofield
-- 👀 I’m most interested in working with SQLServer and Azure.
-- 🌱 I’m currently working with Tech Support.
+- 👀 I'm a Systems Administrator. 
+- 🌱 DevOps, Cloud and Monitoring enthusiast.
 - 📫 How to reach me: linkedin.com/in/luizscofield
