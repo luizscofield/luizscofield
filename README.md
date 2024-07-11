@@ -1,4 +1,4 @@
 - 👋 I’m @luizscofield
-- 👀 I'm a Systems Administrator. 
+- 👀 I'm a DevOps / Infrastructure Engineer.
 - 🌱 DevOps, Cloud and Monitoring enthusiast.
 - 📫 How to reach me: linkedin.com/in/luizscofield
